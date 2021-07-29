@@ -20,4 +20,4 @@ export default class CreatePost extends React.Component{
 
 
 
-}
+}}
